@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import yagmail
+import dotenv
 from dotenv import load_dotenv
 import os
 
