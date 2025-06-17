@@ -1,5 +1,5 @@
-pip install gunicorn
+gunicorn
 flask
 flask-cors
 yagmail
-dotenv
+
