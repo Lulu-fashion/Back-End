@@ -2,4 +2,4 @@ gunicorn
 flask
 flask-cors
 yagmail
-dotenv
+python-dotenv
